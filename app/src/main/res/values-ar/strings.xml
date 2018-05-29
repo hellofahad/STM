@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">مصاريفي</string>
+    <string name="permission_camera_rationale">يجب السماح لإستخدام الكاميرا</string>
+    <string name="ok">موافق</string>
+    <string name="low_storage_error">مساحةالتخزين لا تكفي</string>
+    <string name="no_camera_permission">لم يتم السماح للتطبيق  بإستخدام الكاميرا</string>
+    <string name="tap_on_quantity">حدد السعر المطلوب</string>
+    <string name="scan_receipt">مسح الإيصال</string>
+    <string name="save">حفظ</string>
+    <string name="add_a_spending">إضافة مشتريات جديدة</string>
+    <string name="quantity">السعر</string>
+    <string name="description">الوصف</string>
+    <string name="delete">حذف</string>
+    <string name="edit_a_spending">التعديل على المشتريات</string>
+    <string name="edit_a_saving">التعديل على المدخرات</string>
+    <string name="turkish_lira_symbol">ريال</string>
+    <string name="Select_Group">الرجاء إختيار النوع</string>
+    <string name="tab_text_1">سنوي</string>
+    <string name="tab_text_2">شهري</string>
+    <string name="tab_text_3">اسبوعي</string>
+    <string name="action_settings">الضبط</string>
+
+    <string name="GAS">بنزين</string>
+    <string name="FOOD">طعام</string>
+    <string name="CLOTHES">ملابس</string>
+    <string name="OTHER">اخرى</string>
+
+    <string-array name="groups">
+        <item>الرجاء إختيار النوع</item>
+        <item>طعام</item>
+        <item>فواتير</item>
+        <item>مناسبات</item>
+        <item>اقساط</item>
+        <item>الأطفال</item>
+        <item>سفر</item>
+        <item>مواصلات</item>
+        <item>اخرى</item>
+        <item>تسوق</item>
+        <item>ديون</item>
+        <item>العناية الصحية</item>
+        <item>الإصلاحات</item>
+    </string-array>
+
+    <string name="sett_reminder_header">تعيين تذكير</string>
+    <string name="sett_reminder_label">ذكرني</string>
+    <string name="sett_reminder_desc">سوف نذكرك لكي تقوم بتسجيل مصاريفك</string>
+    <string name="sett_reminder_time_label">عين وقت التذكير</string>
+    <string name="sett_reminder_time_content">8 : 00 PM</string>
+    <string name="notifications_title">لاتنسى تسجيل المصاريف اليومية</string>
+    <string name="notifications_content">كل يوم</string>
+    <string name="remind_me">تعيين وقت التذكير</string>
+    <string name="saving_name">الإسم</string>
+    <string name="saving_price">السعر</string>
+    <string name="saving_price_amount">المدخر</string>
+    <string name="salary_title">الراتب</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="salary">الراتب</string>
+    <string name="loginbutton">إنشاء</string>
+    <string name="trackmonay">تتبع المال هو الخطوة الاولى لحفظه .</string>
+    <string name="tips">نصائح مالية</string>
+    <string name="action_refresh">تحديث</string>
+    <string name="Currency">تحويل العملات</string>
+    <string name="Addspin">إضافة</string>
+    <string name="chart">رسم بياني</string>
+    <string name="savings">مُدخرات</string>
+    <string name="menu">القائمة</string>
+    <string name="about">حول</string>
+    <string name="exit">خروج</string>
+    <string name="loading" />
+    <string name="version">1.0</string>
+    <string name="rate">تقييم</string>
+    <string name="if_you_like_the_app_please_do_rate_it">من فضلك في حال أعجبك التطبيق لاتنسى التقييم.</string>
+    <string name="changelog">سجل التغييرات</string>
+    <string name="licenses">الترخيص</string>
+    <string name="developer">المطورين</string>
+    <string name="your_name">إسمك</string>
+    <string name="your_place_of_living">المدينة</string>
+    <string name="add_to_google_plus_circles">Google Plus حساب</string>
+    <string name="follow_on_github">Github</string>
+    <string name="follow_on_twitter">Twitter</string>
+    <string name="more_apps">التطبيقات الاخرى</string>
+    <string name="support">الدعم</string>
+    <string name="report_bugs_feedback">الإبلاغ عن الأخطاء</string>
+    <string name="report_bugs_or_request_new_features">للإبلاغ عن الأخطاء او طلب مميزات جديدة.</string>
+    <string name="translators">ترجمة</string>
+    <string name="translators_who_helped_in_translating_the_app">Translators who helped in translating the App.</string>
+    <string name="donate">إدعمنا</string>
+    <string name="if_you_think_i_deserve_to_get_paid_for_my_work_you_can_leave_me_a_few_dollars_here">اذا استفدت من التطبيق وتريد دعمه للإستمرار بقوة , تفضل بدعمنا وشكرًا</string>
+    <string name="your_description">Your Description</string>
+    <string name="your_role">Your Role</string>
+    <string name="google_plus">google plus</string>
+    <string name="github">github</string>
+    <string name="apps">apps</string>
+    <string name="developers">المطورين</string>
+    <string name="twitter">Twitter</string>
+
+    <string name="desc">I am Student, pursuing Information Technology and an Android Enthusiast and Developer.\nI have developed this About Screen and Many Other Apps on Google Play Store which you can find more about by Clicking MY APPS.\nYou can also check my other Projects on Github.\n\nDesigned and Developed by:\n<b>Prasad Shirvandkar</b></string>
+
+    <string-array name="currency">
+        <item>ريال</item>
+        <item>دولار</item>
+        <item>يورو</item>
+    </string-array>
+
+</resources>

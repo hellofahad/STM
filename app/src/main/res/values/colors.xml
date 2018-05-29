@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00897B</color>
+    <color name="colorAccent">#00bfa5</color>
+    <color name="colorPrimaryLight">#00dec9</color>
+    <color name="backg">#04adbf</color>
+    <color name="centertext">#e2ffffff</color>
+
+
+    <color name="a">#cddc39</color>
+    <color name="b">#ffeb3b</color>
+    <color name="c">#FFC107</color>
+    <color name="d">#FF9800</color>
+    <color name="e">#FF5722</color>
+
+
+
+    <color name="textcolorHeader">#069ecf</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="textColorSecondary">#a5a5a5</color>
+
+    <!--switch color-->
+
+    <color name="thumb_active">#069ecf</color>
+    <color name="track_active">#66069ECF</color>
+
+    <color name="thumb_inactive">#a5a5a5</color>
+    <color name="track_inactive">#66A5A5A5</color>
+    <color name="type_with_bar">#1d04adbf</color>
+    <color name="cardviewsalary">#9687cdd3</color>
+</resources>

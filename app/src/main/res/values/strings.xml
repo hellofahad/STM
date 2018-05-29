@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">STM</string>
+    <string name="permission_camera_rationale">Please give camera permission</string>
+    <string name="ok">OK</string>
+    <string name="low_storage_error">Low Storage!</string>
+    <string name="no_camera_permission">There is no camera permission</string>
+    <string name="tap_on_quantity">Tap on the quantity to capture.</string>
+    <string name="scan_receipt">Scan Receipt</string>
+    <string name="save">Save</string>
+    <string name="add_a_spending">Add a Spending</string>
+    <string name="quantity">Quantity</string>
+    <string name="description">Description</string>
+    <string name="delete">delete</string>
+    <string name="edit_a_spending">Edit a Spending</string>
+    <string name="edit_a_saving">Edit a Saving</string>
+    <string name="turkish_lira_symbol">SR</string>
+    <string name="Select_Group">Please Select Group</string>
+    <string name="add_a_saving">Add a saving</string>
+
+    <string name="GAS">GAS</string>
+    <string name="FOOD">FOOD</string>
+    <string name="CLOTHES">CLOTHES</string>
+    <string name="OTHER">OTHER</string>
+
+    <string-array name="groups">
+        <item>Please Select Group</item>
+        <item>Food</item>
+        <item> Bills </item>
+        <item> Occasions </item>
+        <item> Premium </item>
+        <item>kids</item>
+        <item>travel</item>
+        <item> Transportation </item>
+        <item> Other </item>
+        <item>Shopping</item>
+        <item> debt </item>
+        <item> healthcare </item>
+        <item> Fixes </item>
+
+    </string-array>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_chartlist">Chartlist</string>
+    <string name="tab_text_1">YEAR</string>
+    <string name="tab_text_2">MONTH</string>
+    <string name="tab_text_3">WEEK</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+
+
+
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+    <string name="sett_reminder_header">Set Reminder</string>
+    <string name="sett_reminder_label">Remind Me</string>
+    <string name="sett_reminder_desc">We will remind you to make entiries of your expense</string>
+    <string name="sett_reminder_time_label">Set Reminder Time</string>
+    <string name="sett_reminder_time_content">8 : 00 PM</string>
+    <string name="notifications_title">remember to record your Spendings</string>
+    <string name="notifications_content">everyday</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="remind_me">Remind Me</string>
+    <string name="saving_name">Name</string>
+    <string name="saving_price">Price</string>
+    <string name="saving_price_amount">saving</string>
+    <string name="salary_title">Salary</string>
+    <string name="username">USERNAME</string>
+    <string name="salary">SALARY</string>
+    <string name="loginbutton">CREATE</string>
+    <string name="trackmonay">Tracking money is the first way to save it.</string>
+    <string name="tips">Financial Tips</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="Currency">Currency Convert</string>
+    <string name="Addspin">Addition</string>
+    <string name="chart">Chart</string>
+    <string name="savings">Savings</string>
+    <string name="menu">menu</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="loadingg">Loading please wait ...</string>
+    <string name="version">Version</string>
+    <string name="rate">Rate</string>
+    <string name="if_you_like_the_app_please_do_rate_it">If you like the app, please do rate it.</string>
+    <string name="changelog">Changelog</string>
+    <string name="licenses">Licenses</string>
+    <string name="developer">Developer</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_place_of_living">Your Place of Living</string>
+    <string name="add_to_google_plus_circles">Add to Google Plus Circles</string>
+    <string name="follow_on_github">Follow on Github</string>
+    <string name="follow_on_twitter">Follow on Twitter</string>
+    <string name="more_apps">More Apps</string>
+    <string name="support">Support</string>
+    <string name="report_bugs_feedback">Report Bugs/Feedback</string>
+    <string name="report_bugs_or_request_new_features">Report Bugs or request new features.</string>
+    <string name="translators">Translators</string>
+    <string name="translators_who_helped_in_translating_the_app">Translators who helped in translating the App.</string>
+    <string name="donate">Donate</string>
+    <string name="if_you_think_i_deserve_to_get_paid_for_my_work_you_can_leave_me_a_few_dollars_here">If you think, I deserve to get paid for my work, you can leave me a few dollars here.</string>
+    <string name="your_description">Your Description</string>
+    <string name="your_role">Your Role</string>
+    <string name="google_plus">google plus</string>
+    <string name="github">github</string>
+    <string name="apps">apps</string>
+    <string name="developers">Developers</string>
+    <string name="twitter">Twitter</string>
+
+    <string name="desc">I am Student, pursuing Information Technology and an Android Enthusiast and Developer.\nI have developed this About Screen and Many Other Apps on Google Play Store which you can find more about by Clicking MY APPS.\nYou can also check my other Projects on Github.\n\nDesigned and Developed by:\n<b>Prasad Shirvandkar</b></string>
+    <string-array name="currency">
+        <item>SAR</item>
+        <item>USD</item>
+        <item>EUR</item>
+    </string-array>
+
+
+</resources>
